@@ -1,3 +1,6 @@
+
+![cryptodash](https://github.com/user-attachments/assets/4eeaa354-abea-43c7-a1b7-f913bc12d805)
+
 # 🚀 CryptoDash: Modern Cryptocurrency Dashboard
 
 A sleek, responsive, and real-time cryptocurrency tracking application built with **React 19**, **Vite**, and **Chart.js**. Monitor the latest prices, market caps, and 24h changes of your favorite digital assets.
